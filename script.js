@@ -33,6 +33,7 @@ const createIcon = (classes) => {
   const i = document.createElement('i');
   i.className = classes;
   return i;
+  // nothing
 };
 
 // Event Listeners
